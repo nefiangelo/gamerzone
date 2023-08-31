@@ -1,0 +1,4 @@
+ - O projeto em si está todo comentado e com facil acesso tanto para o codigo principal e o codigo comentado.
+ - O jogo possui em todos os arquivos as bibliotecas necessária não sendo preciso nenhum dowload para jogar.
+ - A docuemntação do projeto ja possui todos os objetivos, preparações e conclusões durante a criação do jogo.
+ - Bom uso, e obrigado por jogar! ;)
