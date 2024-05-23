@@ -1,4 +1,4 @@
- - O projeto em si está todo comentado e com facil acesso tanto para o codigo principal e o codigo comentado.
- - O jogo possui em todos os arquivos as bibliotecas necessária não sendo preciso nenhum dowload para jogar.
- - A docuemntação do projeto ja possui todos os objetivos, preparações e conclusões durante a criação do jogo.
- - Bom uso, e obrigado por jogar! ;)
+- The project itself is fully commented and with easy access to both the main code and the commented code.
+- The game has all the necessary libraries in all files, meaning there is no need to download anything to play.
+- The project documentation already contains all the objectives, preparations and conclusions during the creation of the game.
+- Good use, and thanks for playing! ;)
