@@ -1,3 +1,3 @@
 # GAMERZONE
 
-<p> - Um jogo indie feito em C em conjunto para um projeto de faculdade. :) </p>
+- A idie game produced by me to a college project made in C language.
